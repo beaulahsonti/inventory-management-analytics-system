@@ -1,0 +1,26 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments
+.venv/
+venv/
+ENV/
+env/
+
+# Databases
+*.db
+*.sqlite
+
+# Outputs & Reports
+*.png
+*.csv
+powerbi_inventory_analytics.csv
+inventory_dashboard.png
+
+# IDE / OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
